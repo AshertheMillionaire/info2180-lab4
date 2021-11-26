@@ -1,0 +1,56 @@
+header{
+    background: rgba(24, 111, 192, 0.781);
+    color: #ffffffff;
+    text-align: center;
+    padding: 20px;
+}
+body{
+    background: white;
+}
+.heroSearch{
+    padding: 20px;
+    color: rgb(0, 8, 14);
+    font-size: 20px;
+}
+form{
+    padding-left: 0px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+.btn{
+    margin-left: 0px;
+    width: 100px;
+    height: 37px;
+    border-radius: 5px;
+    background-color: rgba(0, 110, 255, 0.842);
+    color: white;
+}
+.form{
+    margin-left: 20px;
+    display: inline;
+}
+#search{
+    margin-left: 0px;
+    height: 30px;
+    border-radius: 5px;
+    width: 600px;
+}
+.container h1{
+    font-size: 20px;
+    padding-left: 20px;
+}
+#result{
+    padding-left: 20px;
+}
+p{
+    margin-top: -5px;
+    font-size: 15px;
+}
+
+
+
+
+#notFound{
+    color: rgb(252, 38, 0);
+    font-size: 15px;
+}
